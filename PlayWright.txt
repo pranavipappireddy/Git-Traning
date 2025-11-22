@@ -1,0 +1,1 @@
+Emerging automation technology used for testing having advantages over selenium
