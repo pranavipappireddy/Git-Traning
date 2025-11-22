@@ -1,2 +1,2 @@
 # Git-Training
-Git workshop in hexaware
+Git workshop
